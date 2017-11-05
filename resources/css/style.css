@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.dl_link {
+  color: Aquamarine;
+  font-size: 16px;
+}
